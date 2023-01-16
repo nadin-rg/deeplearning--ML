@@ -1,0 +1,5 @@
+en el siguiente link se muestran las instrucciones para crear un repositorio de github
+clonarlo, bajarlo a u pc abrirlo en vscode, subir archivos al local para luego sincronizarlo
+con el repositorio principal
+
+https://www.mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
